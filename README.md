@@ -38,3 +38,8 @@ https://developer.apple.com/swift/
 https://developer.apple.com/...Swift_Programming_Language
 
 We have not standardized on any Swift book yet, however we have been using Ray Wenderlich's excellent tutorials at raywenderlich.com.
+
+### Contributing to GitHub this repository
+Here is a quick tutorial on contributing to others' repositories:
+
+http://kbroman.org/github_tutorial/pages/fork.html
